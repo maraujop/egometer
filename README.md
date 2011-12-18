@@ -12,7 +12,7 @@ There is no PyPi package for this, unless someone finds it interesting. So you c
     cd egometer
     cp example_settings.py settings.py
 
-Open `settings.py` with your favorite editor and feel in your Twitter API token information. `settings.py` is in .gitignore, so don't worry.
+Open `settings.py` with your favorite editor and fill in your Twitter API token information. `settings.py` is in .gitignore, so don't worry.
 
 ### Requirements
 
